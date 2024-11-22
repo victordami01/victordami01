@@ -39,4 +39,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victordami01&show_icons=true&locale=en" alt="victordami01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victordami01&" alt="victordami01" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=victordami01&" alt="victordami01" /></p>
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/673f857a5434bf319a147470?variant=dark" alt="roadmap.sh"/></a>
